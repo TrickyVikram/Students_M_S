@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>net.proteanit</groupId>
+    <artifactId>rs2xml</artifactId>
+    <version>1.0.2</version>
+</dependency>

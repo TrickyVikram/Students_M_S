@@ -1,0 +1,25 @@
+{
+    "java.completion.favoriteStaticMembers": [
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*"
+    ],
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/vikramkumar/Desktop/mysql-connector-j-8.2.0/src/**/*.jar",
+            "/Users/vikramkumar/Desktop/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"
+        ],
+        "exclude": [
+            "lib/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar"
+        ]
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
